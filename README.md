@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mewanya Lokuge</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
+<h4 align="center"> I am a  Computer Science undergraduate at Informatics Institute of Technology (IIT), Colombo, syndicated with the University of Westminster, UK.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mewanyan05&label=Profile%20views&color=0e75b6&style=flat" alt="mewanyan05" /> </p>
 
